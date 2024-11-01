@@ -18,7 +18,7 @@ El sistema está construido utilizando HTML, CSS y JavaScript. No se requiere ni
 
 1. Descarga los archivos HTML, CSS y JavaScript proporcionados.
 
-2. Abre el archivo HTML en tu navegador web.
+2. Abre el archivo HTML en tu navegador web. (con LIVE SERVER)
 
 3. En la página principal, encontrarás los siguientes botones:
    - "Ver turnos creados": Muestra todos los turnos previamente creados.
